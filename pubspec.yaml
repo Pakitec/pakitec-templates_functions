@@ -1,7 +1,7 @@
-name: templates
-description: "A new Flutter project."
-version: 0.0.1
-homepage:
+name: pakitec_templates_functions
+description: components from pakitec devs
+version: 1.0.0
+homepage: 'www.pakitec.com.br'
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
